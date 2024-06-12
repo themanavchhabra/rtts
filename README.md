@@ -1,3 +1,4 @@
+# Custom 2 DOF gimbal with Real Time Face Tracking Capabilities
 
 A Face Tracking Camera is a camera that uses algorithms to locate faces within images or video footage. Face detection has progressed from rudimentary computer vision techniques to advances in machine learning (ML) to increasingly sophisticated artificial neural networks (ANN) and related technologies; the result has been continuous performance improvements. It now plays an important role as the first step in many key applications -- including face tracking, face analysis, and facial recognition.
 
